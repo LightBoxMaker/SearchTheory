@@ -5,4 +5,5 @@ Search optimization entails optimally allocating multiple sensors’ search reso
 For detail, please see Search_Theory_Report.pdf.
 
 [1] C ́ecile Simonin, Jean-Pierre Le Cadre, and Fr ́ed ́eric Dambreville. A hierarchical approach for planning a multisensor multizone search for a moving target. Comput. Oper. Res., 36(7):2179–2192, July 2009.
+
 [2] Hoai An Le Thi, Duc Nguyen, and Tao Pham Dinh. A dc programming approach for planning a multisensor multizone search for a target. 41:231–239, 01 2014.
