@@ -1,6 +1,6 @@
 # SearchTheory
 
-Advisor: Patrick Jaillet (http://web.mit.edu/jaillet/www/)
+Advisor: Professor Patrick Jaillet (http://web.mit.edu/jaillet/www/)
 
 Search optimization entails optimally allocating multiple sensors’ search resources to locate a moving target in a multi-zone setting. Two papers (A Hierarchical Approach for Planning a Multisensor Multizone Search for a Moving Target [Hierarchical paper][1] and A DC programming approach for planning a multisensor multizone search for a target [DCA paper][2]) are surveyed and their algorithms are implemented in this project. The project also quantifies the impact of various assumptions in the former paper and in particular explores methods to relax the specific assumption of target transition matrix.
 
